@@ -19,7 +19,10 @@ dynamic business insights using **DAX**.
 
 ## 📷 Dashboard Preview
 
-![Sales-Dashboard](./Screenshot 2025-12-31 153431.png)
+<p align="center">
+  <img src="Screenshot 2025-12-31 153431.png" alt="Sales Dashboard" width="800">
+</p>
+
 
 
 ## 🧠 Dynamic Business Insight (DAX)
